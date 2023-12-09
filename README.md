@@ -36,9 +36,3 @@ Calculates the number of words in the given sentence, considering words as separ
 ### `calculateExpression(String expression): double`
 
 Given a string containing a well-formed mathematical expression with numbers, arithmetic operations, and brackets, calculates and returns the result of the expression.
-
-## Usage
-
-1. **Clone the repository:**
-   ```bash
-   git clone <repository-url>
